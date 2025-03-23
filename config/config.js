@@ -3,7 +3,7 @@ var config = {
     name: "Yuxian Chen",
     sex: "Female",
     age: "31",
-    phone: "19872222222",
+    phone: "18817870279",
     email: "happysnaker@foxmail.com this`s true",
     address: "现居浙江省义乌市",
     qq: "11",
